@@ -1,5 +1,7 @@
 package com.test;
 
 public class test {
-    sdfsw
+    private void test(){
+
+    }
 }
